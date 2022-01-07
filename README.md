@@ -1,6 +1,6 @@
 ### Ciao! 👋 il mio nome è
 # Dimitri Giani
-#### Sono uno sviluppatore Mobile e Product Designer 🇮🇹
+#### Sono uno sviluppatore Mobile e Product Designer Italiano, per la precisione di Pisa 🇮🇹
 
 Mi occupo di progettazione e sviluppo di Soluzioni Digitali basate su App Mobile 📱
 
